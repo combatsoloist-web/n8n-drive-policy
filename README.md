@@ -1,5 +1,5 @@
 # n8n-drive-policy
-# n8n Private Automation
+n8n Private Automation
 
 This application is used solely for personal/internal workflow automation with Google Drive and n8n.
 
